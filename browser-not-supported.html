@@ -1,0 +1,30 @@
+---
+layout: plain
+header-img: "important-img/home-bg-o.jpg"
+permalink: /browser-not-supported.html
+---
+<!-- Page Header -->
+<header class="intro-header"
+        style="background-image: url('{% if page.header-img %}{{ site.image-cdn }}{{ page.header-img }}{% else %}{{ site.image-cdn }}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" id="tag-heading">
+                    <h1>Oops! 不受支持的浏览器!</h1>
+                    <img src="https://oh8y59tfn.qnssl.com/important-img/broswer-not-supported.png"/>
+                    <h2>可能的原因</h2>
+                    <span class="subheading">1. 您的浏览器过于老旧，请换用现代浏览器。</span>
+                    <span class="subheading">2. FireFox 无法渲染本博客使用的webp图像格式，请换用<a style="color:#5dc7ff"
+                                                                                 href="https://www.google.com/chrome/browser/"
+                                                                                 target="_blank"> Chrome </a>、
+            <a style="color:#5dc7ff" href="http://www.opera.com/zh-cn" target="_blank"> Opera </a>或
+            <a style="color:#5dc7ff" href="http://www.apple.com/cn/safari/"
+               target="_blank"> Safari </a>等支持webp格式的浏览器。</span>
+                    <br><br>
+                </div>
+            </div>
+        </div>
+</header>
+<script>
+    document.body.classList.add('page-fullscreen');
+</script>
