@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Hey, this is Eldath."
+description: "Hey, this is kang."
 header-img: "important-img/about-bg.webp"
 ---
  > Yeah, it's on.
