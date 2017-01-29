@@ -14,4 +14,4 @@ Thing goes well, now my blog is running now.
 
 ## Hello World, Hello Blog!!
 
-————Kangta at 2017-01-29
+————Kang at 2017-01-29
