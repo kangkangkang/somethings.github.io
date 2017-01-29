@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello World!"
 subtitle:   "Hello World!"
 date:       2016-10-06
-author:     "Eldath"
+author:     "Kang"
 tags:
     - Life
 ---
@@ -14,4 +14,4 @@ Thing goes well, now my blog is running now.
 
 ## Hello World, Hello Blog!!
 
-————Eldath at 2016-10-06
+————Kangta at 2017-01-29
