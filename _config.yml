@@ -93,3 +93,5 @@ friends: [
         href: "https://github.com/icela"
     }
 ]
+
+theme: jekyll-theme-merlot
