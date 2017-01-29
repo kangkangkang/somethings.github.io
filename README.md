@@ -1,3 +1,2 @@
 ## somethings.github.io
-
-This is my blog about `Tech  Life and Startalk` 
+感谢寒寒大大
