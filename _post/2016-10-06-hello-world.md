@@ -5,7 +5,7 @@ subtitle:   "Hello World!"
 date:       2016-10-06
 author:     "Kang"
 tags:
-    - Life
+    - research
 ---
 
 > "Yeah It's on."
