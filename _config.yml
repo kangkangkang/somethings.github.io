@@ -1,20 +1,20 @@
 # Site settings
-title: Eldath's Blog
-SEOTitle: Eldath's Blog | Tech, Music, Life and Startalk
+title: Kang's Blog
+SEOTitle: Eldath's Blog | Our schoollife!
 header-img: "https://oh8y59tfn.qnssl.com/important-img/index-bg-o.webp"
 email: <a href="mailto:%6C%69%7A%68%61%6F%68%61%6E%30%30%31%40%6C%69%76%65%2E%63%6E">Send me an e-mail</a>
-description: "Tech, Music, Life and Startalk"
-keyword: "Blog;个人博客;Tech;Music;Life;Startalk"
-url: "http://ray-eldath.github.io/"              # your host, for absolute URL
+description: "Our schoollife!"
+keyword: "Blog;隆回一中VR研究小组;Our schoollife"
+url: "http://kangkangkang.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     Eldath
-zhihu_username:     li-zhao-han-1
-github_username:    Ray-Eldath
+weibo_username:    
+zhihu_username:     
+github_username:    kangkangkang
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: ray-eldath
+duoshuo_username: kangkangkang
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -68,7 +68,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Tech, Music, Life, Startalk."
+sidebar-about-description: "Our schoollife"
 sidebar-avatar: "https://oh8y59tfn.qnssl.com/important-img/avatar.webp"    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -89,8 +89,8 @@ friends: [
         title: "ProgramLeague",
         href: "https://github.com/ProgramLeague"
     },{
-        title: "Icela",
-        href: "https://github.com/icela"
+        title: "ray-elath's Blog",
+        href: "https://ray-eldath.github.io"
     }
 ]
 
