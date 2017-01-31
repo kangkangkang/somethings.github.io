@@ -10,6 +10,6 @@ header-img: "important-img/about-bg.webp"
 Welcome know me on sidebar.
 
 ## What is this ?
-This is my blog about `Tech, Music, Life and Startalk`  !!
 
+This is our schoollife!
 Welcome feed my blog [here](/feed.xml).
