@@ -1,7 +1,7 @@
 # Site settings
-title: Kang's Blog
-SEOTitle: Eldath's Blog | Our schoollife!
-header-img: "https://oh8y59tfn.qnssl.com/important-img/index-bg-o.webp"
+title: 隆回一中VR研究小组
+SEOTitle: kang kang大法好 | Our schoollife!
+header-img: "O(C5@B@K3BWG7{YTQ3~QWGD.jpg"
 email: <a href="mailto:%6C%69%7A%68%61%6F%68%61%6E%30%30%31%40%6C%69%76%65%2E%63%6E">Send me an e-mail</a>
 description: "Our schoollife!"
 keyword: "Blog;隆回一中VR研究小组;Our schoollife"
@@ -13,7 +13,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 # SNS settings
 RSS: true
 weibo_username:    
-zhihu_username:     
+zhihu_username:     剑指东南
 github_username:    kangkangkang
 #twitter_username:  huxpro
 #facebook_username:  huxpro
@@ -69,7 +69,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Our schoollife"
-sidebar-avatar: "https://oh8y59tfn.qnssl.com/important-img/avatar.webp"    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "I$YIT1IVMC)GH[$[H7O~$D4.jpg"    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
