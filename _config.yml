@@ -90,3 +90,5 @@ friends: [
         href: "https://github.com/ProgramLeague"
     }
 ]
+
+theme: jekyll-theme-merlot
